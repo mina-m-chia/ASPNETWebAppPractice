@@ -1,7 +1,9 @@
 ﻿<Properties StartupConfiguration="{6519D525-ABA4-4539-B007-ADB2AFC06D5C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstASPNETWebApp/wwwroot/index.html">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstASPNETWebApp/wwwroot/js/FanMail.js">
     <Files>
-      <File FileName="MyFirstASPNETWebApp/wwwroot/index.html" Line="13" Column="110" />
+      <File FileName="MyFirstASPNETWebApp/wwwroot/index.html" Line="11" Column="28" />
+      <File FileName="MyFirstASPNETWebApp/wwwroot/css/default.css" Line="18" Column="2" />
+      <File FileName="MyFirstASPNETWebApp/wwwroot/js/FanMail.js" Line="12" Column="8" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -9,7 +11,11 @@
           <Node name="MyFirstASPNETWebApp" expanded="True">
             <Node name="MyFirstASPNETWebApp" expanded="True">
               <Node name="wwwroot" expanded="True">
-                <Node name="index.html" selected="True" />
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True">
+                  <Node name="FanMail.js" selected="True" />
+                </Node>
+                <Node name="lib" expanded="True" />
               </Node>
             </Node>
           </Node>

@@ -18,3 +18,24 @@
 /Users/minachia/Downloads/IS 413/MyFirstASPNETWebApp/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.dll
 /Users/minachia/Downloads/IS 413/MyFirstASPNETWebApp/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.pdb
 /Users/minachia/Downloads/IS 413/MyFirstASPNETWebApp/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.genruntimeconfig.cache
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/wwwroot/lib/jquery/jquery-3.6.0.min.js
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.deps.json
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.runtimeconfig.json
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.runtimeconfig.dev.json
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.dll
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.pdb
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.AssemblyReference.cache
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.AssemblyInfoInputs.cache
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.AssemblyInfo.cs
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.CoreCompileInputs.cache
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/staticwebassets/MyFirstASPNETWebApp.StaticWebAssets.Manifest.cache
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/staticwebassets/MyFirstASPNETWebApp.StaticWebAssets.xml
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/scopedcss/bundle/MyFirstASPNETWebApp.styles.css
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorTargetAssemblyInfo.cache
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.dll
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.pdb
+/Users/minachia/Documents/GitHub/test/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.genruntimeconfig.cache
